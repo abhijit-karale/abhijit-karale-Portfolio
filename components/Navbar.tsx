@@ -43,6 +43,8 @@ export default function Navbar({ onOpenTerminal }: NavbarProps) {
     return () => document.removeEventListener("mousedown", handleOutsideClick);
   }, []);
 
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+
   return (
     <header
       className={`sticky top-0 z-40 transition-all duration-300 ${
@@ -57,7 +59,7 @@ export default function Navbar({ onOpenTerminal }: NavbarProps) {
           <div className="relative h-10 w-10 overflow-hidden rounded-full border-2 border-trace/30 p-0.5 transition duration-300 group-hover:border-trace group-hover:scale-105 group-hover:shadow-[0_0_15px_rgba(0,242,254,0.3)]">
             <div className="relative h-full w-full overflow-hidden rounded-full">
               <Image
-                src="/profile.jpg"
+                src={`${basePath}/profile.jpg`}
                 alt={profile.name}
                 width={40}
                 height={40}

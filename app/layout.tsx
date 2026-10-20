@@ -46,9 +46,9 @@ export const metadata: Metadata = {
   creator: "Abhijit Karale",
   publisher: "Abhijit Karale",
   icons: {
-    icon: "/icon.svg",
-    shortcut: "/icon.svg",
-    apple: "/icon.svg",
+    icon: "https://abhijit-karale.github.io/abhijit-karale-Portfolio/icon.svg",
+    shortcut: "https://abhijit-karale.github.io/abhijit-karale-Portfolio/icon.svg",
+    apple: "https://abhijit-karale.github.io/abhijit-karale-Portfolio/icon.svg",
   },
   openGraph: {
     type: "website",

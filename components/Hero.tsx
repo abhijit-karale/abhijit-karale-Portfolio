@@ -80,6 +80,7 @@ function MetricCard({ value, suffix, label, color, note }: (typeof metrics)[numb
 }
 
 export default function Hero() {
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
   const ref = useRef<HTMLElement>(null);
   const onMove = (e: React.MouseEvent) => {
     const el = ref.current;
@@ -245,7 +246,7 @@ export default function Hero() {
                 {/* Photo Container */}
                 <div className="group relative aspect-[3/4] w-full overflow-hidden rounded-2xl border border-white/10 bg-[#080B11]">
                   <Image
-                    src="/profile.jpg"
+                    src={`${basePath}/profile.jpg`}
                     alt="Abhijit Karale - RTL & Verification Engineer"
                     fill
                     priority
