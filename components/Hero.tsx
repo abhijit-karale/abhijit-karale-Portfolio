@@ -164,7 +164,7 @@ export default function Hero() {
               </a>
 
               <a
-                href="/Abhijit_Karale_RTL_DV_Resume.pdf"
+                href="./Abhijit_Karale_RTL_DV_Resume.pdf"
                 download
                 className="inline-flex items-center gap-2 rounded-xl border border-white/10 bg-white/[0.04] px-4.5 py-3 font-medium text-white backdrop-blur-md transition duration-200 hover:border-trace/60 hover:bg-white/[0.08] hover:text-trace hover:-translate-y-0.5"
               >

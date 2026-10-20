@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://abhijitkarale.github.io/Portfolio/sitemap.xml',
+    sitemap: 'https://abhijit-karale.github.io/abhijit-karale-Portfolio/sitemap.xml',
   };
 }

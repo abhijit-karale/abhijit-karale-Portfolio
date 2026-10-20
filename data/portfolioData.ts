@@ -12,8 +12,8 @@ export const profile = {
   headline: "I verify the chip, and I've debugged the board it ends up on.",
   summary: "RTL architecture, constrained-random and formal verification, plus 2+ years of firmware and hardware bring-up. Hands-on in Cadence Xcelium and JasperGold.",
   email: "abhijitkarale8@gmail.com", phone: "+91 9552067110", location: "Ahmedabad, Gujarat, India",
-  github: "https://github.com/abhijitkarale", linkedin: "https://linkedin.com/in/abhijitkarale",
-  portfolio: "https://abhijitkarale.github.io/Portfolio/",
+  github: "https://github.com/abhijit-karale", linkedin: "https://linkedin.com/in/abhijitkarale",
+  portfolio: "https://abhijit-karale.github.io/abhijit-karale-Portfolio/",
 };
 export const metrics = [
   { label: "UVM functional coverage", value: 95, suffix: "%+", color: "#00F2FE", note: "Cadence Xcelium benchmark (RV32I)" },

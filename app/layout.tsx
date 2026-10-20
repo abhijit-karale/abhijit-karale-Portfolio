@@ -12,7 +12,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://abhijitkarale.github.io"),
+  metadataBase: new URL("https://abhijit-karale.github.io/abhijit-karale-Portfolio"),
   title: {
     default: "Abhijit Karale | RTL Design & Verification Engineer",
     template: "%s | Abhijit Karale",
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://abhijitkarale.github.io/Portfolio/",
+    url: "https://abhijit-karale.github.io/abhijit-karale-Portfolio/",
     title: "Abhijit Karale | RTL Design & Verification Engineer",
     description:
       "RTL microarchitecture, UVM and JasperGold formal verification, backed by 2+ years of physical board bring-up and embedded firmware.",

@@ -120,7 +120,7 @@ export default function Navbar({ onOpenTerminal }: NavbarProps) {
                   Download Verified Resumes
                 </div>
                 <a
-                  href="/Abhijit_Karale_RTL_DV_Resume.pdf"
+                  href="./Abhijit_Karale_RTL_DV_Resume.pdf"
                   download
                   onClick={() => setResumeDropdownOpen(false)}
                   className="flex items-start gap-3 rounded-xl p-2.5 text-slate-200 hover:bg-white/[0.06] hover:text-trace transition duration-150 group"
@@ -138,7 +138,7 @@ export default function Navbar({ onOpenTerminal }: NavbarProps) {
                   </div>
                 </a>
                 <a
-                  href="/Abhijit_Karale_Embedded_Resume.pdf"
+                  href="./Abhijit_Karale_Embedded_Resume.pdf"
                   download
                   onClick={() => setResumeDropdownOpen(false)}
                   className="flex items-start gap-3 rounded-xl p-2.5 text-slate-200 hover:bg-white/[0.06] hover:text-pass transition duration-150 group"
@@ -212,7 +212,7 @@ export default function Navbar({ onOpenTerminal }: NavbarProps) {
             </div>
             <div className="grid grid-cols-1 gap-2">
               <a
-                href="/Abhijit_Karale_RTL_DV_Resume.pdf"
+                href="./Abhijit_Karale_RTL_DV_Resume.pdf"
                 download
                 onClick={() => setMobileMenuOpen(false)}
                 className="flex items-center gap-2.5 rounded-xl border border-trace/30 bg-trace/[0.08] p-3 text-xs text-trace hover:bg-trace/15 transition"
@@ -221,7 +221,7 @@ export default function Navbar({ onOpenTerminal }: NavbarProps) {
                 <span className="font-semibold">RTL &amp; DV Resume (PDF)</span>
               </a>
               <a
-                href="/Abhijit_Karale_Embedded_Resume.pdf"
+                href="./Abhijit_Karale_Embedded_Resume.pdf"
                 download
                 onClick={() => setMobileMenuOpen(false)}
                 className="flex items-center gap-2.5 rounded-xl border border-pass/30 bg-pass/[0.08] p-3 text-xs text-pass hover:bg-pass/15 transition"

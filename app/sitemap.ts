@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://abhijitkarale.github.io/Portfolio';
+  const baseUrl = 'https://abhijit-karale.github.io/abhijit-karale-Portfolio';
   const currentDate = new Date().toISOString();
 
   return [
