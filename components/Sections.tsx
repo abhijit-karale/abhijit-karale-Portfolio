@@ -551,7 +551,7 @@ export function ContactTerminal() {
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
               <a
-                href="/Abhijit_Karale_RTL_DV_Resume.pdf"
+                href="./Abhijit_Karale_RTL_DV_Resume.pdf"
                 download
                 className="flex items-center gap-2.5 rounded-xl border border-trace/30 bg-trace/[0.06] p-3 text-xs text-trace hover:bg-trace/15 transition font-mono font-medium group"
               >
@@ -559,7 +559,7 @@ export function ContactTerminal() {
                 <span>RTL &amp; DV Resume (PDF)</span>
               </a>
               <a
-                href="/Abhijit_Karale_Embedded_Resume.pdf"
+                href="./Abhijit_Karale_Embedded_Resume.pdf"
                 download
                 className="flex items-center gap-2.5 rounded-xl border border-pass/30 bg-pass/[0.06] p-3 text-xs text-pass hover:bg-pass/15 transition font-mono font-medium group"
               >
