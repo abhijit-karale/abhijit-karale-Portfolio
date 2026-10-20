@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="6" fill="#0A0D14"/>
+  <!-- Silicon chip pins -->
+  <rect x="7" y="1" width="2" height="3" fill="#00F2FE" rx="1"/>
+  <rect x="15" y="1" width="2" height="3" fill="#00F2FE" rx="1"/>
+  <rect x="23" y="1" width="2" height="3" fill="#00F2FE" rx="1"/>
+  <rect x="7" y="28" width="2" height="3" fill="#00F2FE" rx="1"/>
+  <rect x="15" y="28" width="2" height="3" fill="#00F2FE" rx="1"/>
+  <rect x="23" y="28" width="2" height="3" fill="#00F2FE" rx="1"/>
+  <rect x="1" y="7" width="3" height="2" fill="#00F2FE" rx="1"/>
+  <rect x="1" y="15" width="3" height="2" fill="#00F2FE" rx="1"/>
+  <rect x="1" y="23" width="3" height="2" fill="#00F2FE" rx="1"/>
+  <rect x="28" y="7" width="3" height="2" fill="#00F2FE" rx="1"/>
+  <rect x="28" y="15" width="3" height="2" fill="#00F2FE" rx="1"/>
+  <rect x="28" y="23" width="3" height="2" fill="#00F2FE" rx="1"/>
+  <!-- Inner Die -->
+  <rect x="5" y="5" width="22" height="22" rx="4" fill="#131B2E" stroke="#00F2FE" stroke-width="1.5"/>
+  <!-- Corner Tech Accent -->
+  <circle cx="9" cy="9" r="1.5" fill="#10B981"/>
+  <!-- AK Text -->
+  <text x="16" y="20" font-family="ui-monospace, monospace" font-size="10" font-weight="900" fill="#00F2FE" text-anchor="middle" letter-spacing="-0.5">AK</text>
+</svg>
