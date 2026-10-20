@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://abhijit-karale.github.io/abhijit-karale-Portfolio/sitemap.xml

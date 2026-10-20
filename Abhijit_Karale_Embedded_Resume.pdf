@@ -1,0 +1,103 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 6 0 R /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 5519 >>
+stream
+BT /F2 18 Tf 50 750 Td (Abhijit Karale) Tj ET
+BT /F2 10 Tf 50 728 Td (Embedded Systems & Firmware Engineer | STM32 | ARM Cortex-M | FreeRTOS | Hardware Bring-Up) Tj ET
+BT /F2 10 Tf 50 714 Td (Ahmedabad, India | abhijitkarale8@gmail.com | +91 9552067110 | linkedin.com/in/abhijitkarale | github.com/abhijitkarale) Tj ET
+BT /F2 12 Tf 50 694 Td (PROFESSIONAL SUMMARY) Tj ET
+0.2 G 1 w 50 691 m 550 691 l S
+BT /F1 9 Tf 50 679 Td (Embedded Systems and Firmware Engineer with 2+ years of production experience in firmware architecture and board bring-up.) Tj ET
+BT /F1 9 Tf 50 667 Td (Expertise in STM32 / ARM Cortex-M, Nordic nRF52 BLE, FreeRTOS preemptive multitasking, and peripheral driver development.) Tj ET
+BT /F1 9 Tf 50 655 Td (Adept in laboratory hardware debugging: multi-layer PCB fault isolation, oscilloscope signal analysis, and analog conditioning.) Tj ET
+BT /F2 12 Tf 50 637 Td (TECHNICAL SKILLS) Tj ET
+0.2 G 1 w 50 634 m 550 634 l S
+BT /F1 9 Tf 60 622 Td ( Microcontrollers & Platforms: STM32, ARM Cortex-M0/M3/M4, Nordic nRF52840/nRF52833,) Tj ET
+BT /F1 9 Tf 68 611 Td (LPC1768, 8/32-bit MCUs) Tj ET
+BT /F1 9 Tf 60 599 Td ( Firmware & Software: Embedded C, C++, FreeRTOS \(tasks, queues, mutexes, semaphores\),) Tj ET
+BT /F1 9 Tf 68 588 Td (Bare-metal, Bare-metal HAL, Git) Tj ET
+BT /F1 9 Tf 60 576 Td ( Communication Protocols: UART, SPI, I2C, BLE 5.0 \(Low-Power System ON/OFF\), RS-485,) Tj ET
+BT /F1 9 Tf 68 565 Td (Modbus, ADC, PWM, GPIO) Tj ET
+BT /F1 9 Tf 60 553 Td ( Hardware & Lab Tools: Multi-layer PCB Debugging, Signal Integrity, Oscilloscopes,) Tj ET
+BT /F1 9 Tf 68 542 Td (Logic Analyzers, Multimeters, Soldering) Tj ET
+BT /F1 9 Tf 60 530 Td ( Development Environments: Keil uVision, STM32CubeIDE, Nordic nRF Connect SDK, J-Link,) Tj ET
+BT /F1 9 Tf 68 519 Td (OpenOCD) Tj ET
+BT /F2 12 Tf 50 501 Td (PROFESSIONAL EXPERIENCE) Tj ET
+0.2 G 1 w 50 498 m 550 498 l S
+BT /F2 10 Tf 50 486 Td (Velaxtra Pvt Ltd — Sr Embedded Firmware Engineer) Tj ET
+BT /F1 9 Tf 350 486 Td (Oct 2025 - Jun 2026 | Bangalore) Tj ET
+BT /F1 9 Tf 60 473 Td ( Architected and implemented production embedded C firmware for smart industrial and) Tj ET
+BT /F1 9 Tf 68 462 Td (remote-asset monitoring devices.) Tj ET
+BT /F1 9 Tf 60 450 Td ( Developed non-blocking drivers for UART, SPI, I2C, ADC, and PWM peripherals managed) Tj ET
+BT /F1 9 Tf 68 439 Td (under FreeRTOS priority queues.) Tj ET
+BT /F1 9 Tf 60 427 Td ( Accelerated board bring-up by correlating firmware execution traces with hardware) Tj ET
+BT /F1 9 Tf 68 416 Td (oscilloscope captures.) Tj ET
+BT /F2 10 Tf 50 404 Td (Minilec India Pvt Ltd — Embedded System Engineer) Tj ET
+BT /F1 9 Tf 350 404 Td (Jul 2024 - Sep 2025 | Pune) Tj ET
+BT /F1 9 Tf 60 391 Td ( Engineered STM32 and ARM Cortex-M control firmware for high-volume industrial motor) Tj ET
+BT /F1 9 Tf 68 380 Td (protection and monitoring relays.) Tj ET
+BT /F1 9 Tf 60 368 Td ( Diagnosed analog signal-conditioning circuits, resolved PCB signal-integrity issues,) Tj ET
+BT /F1 9 Tf 68 357 Td (and eliminated intermittent field faults.) Tj ET
+BT /F1 9 Tf 60 345 Td ( Standardized factory production testing and hardware verification procedures for) Tj ET
+BT /F1 9 Tf 68 334 Td (electronic relay units.) Tj ET
+BT /F2 10 Tf 50 322 Td (Saksham Semiconductors — Analog Circuit Design Intern) Tj ET
+BT /F1 9 Tf 350 322 Td (May 2024 - Jul 2024 | Hyderabad) Tj ET
+BT /F1 9 Tf 60 309 Td ( Simulated MOSFET characteristics and designed differential amplifiers and current) Tj ET
+BT /F1 9 Tf 68 298 Td (mirrors in SPICE.) Tj ET
+BT /F2 10 Tf 50 286 Td (The Silicon Sandbox — Trainee, Advanced RTL & Verification) Tj ET
+BT /F1 9 Tf 350 286 Td (Jun 2026 - Present | Bangalore) Tj ET
+BT /F1 9 Tf 60 273 Td ( Gained advanced RTL architecture, SystemVerilog, and UVM verification training) Tj ET
+BT /F1 9 Tf 68 262 Td (bridging firmware with silicon design.) Tj ET
+BT /F2 12 Tf 50 244 Td (KEY HARDWARE & EMBEDDED PROJECTS) Tj ET
+0.2 G 1 w 50 241 m 550 241 l S
+BT /F2 10 Tf 50 229 Td (Multi-Peripheral Industrial Firmware Engine) Tj ET
+BT /F1 9 Tf 350 229 Td (STM32, FreeRTOS, Embedded C) Tj ET
+BT /F1 9 Tf 60 216 Td ( Built robust preemptive multitasking framework integrating 5 peripherals \(UART, SPI,) Tj ET
+BT /F1 9 Tf 68 205 Td (I2C, ADC, PWM\) with zero task starvation.) Tj ET
+BT /F2 10 Tf 50 193 Td (Ultra-Low-Power BLE Firmware for Edge Devices) Tj ET
+BT /F1 9 Tf 350 193 Td (Nordic nRF52840, BLE, Low Power) Tj ET
+BT /F1 9 Tf 60 180 Td ( Optimized battery autonomy via fine-grained System ON / System OFF sleep states and) Tj ET
+BT /F1 9 Tf 68 169 Td (RTC wake-up triggers.) Tj ET
+BT /F2 10 Tf 50 157 Td (Industrial SCR Motor Drive Firing Package Diagnostics) Tj ET
+BT /F1 9 Tf 350 157 Td (Komatsu/Joy SCR 601849-121) Tj ET
+BT /F1 9 Tf 60 144 Td ( Isolated firing-circuit failure modes in high-power industrial SCR motor drive) Tj ET
+BT /F1 9 Tf 68 133 Td (modules and established testing protocol.) Tj ET
+BT /F2 12 Tf 50 115 Td (EDUCATION & LEADERSHIP) Tj ET
+0.2 G 1 w 50 112 m 550 112 l S
+BT /F2 10 Tf 50 100 Td (MAEER's MIT College of Railway Engineering & Research, Barshi — B.Tech EXTC) Tj ET
+BT /F1 9 Tf 350 100 Td (2023 - 2026 | CGPA: 7.86) Tj ET
+BT /F2 10 Tf 50 87 Td (MAEER's MIT College of Railway Engineering & Research — Diploma in Railway Engineering) Tj ET
+BT /F1 9 Tf 350 87 Td (2021 - 2024 | Grade: 9.6) Tj ET
+BT /F2 10 Tf 50 74 Td (Vice President — ETSA \(Electronics & Telecomm Students Association\)) Tj ET
+BT /F1 9 Tf 350 74 Td (2024 - 2025) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5967
+%%EOF
